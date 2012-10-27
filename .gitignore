@@ -10,3 +10,20 @@
 *.lai
 *.la
 *.a
+
+# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
+Debug
+bin
+obj
+
+# mstest test results
+TestResults
+*.cache
+*.suo
+*.user
+
+*.ncb
+*.pch
+*.obj
+*.pdb
+*.idb
